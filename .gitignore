@@ -1,0 +1,12 @@
+#ignoring centos files
+centos7/db_data/
+centos7/jenkins_home/
+
+#ignoring db_data files
+db_data/
+
+#ignoring jenkins_ansible folder
+jenkins-asnbile/db-data/
+
+#ignoring jenkins_home
+jenkins_home/

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff0a9235-2e80-492b-b35f-61919362050d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jenkins-learn" />
+  </component>
+  <component name="ProjectId" id="1VFijRUjX8ZQqOlqbj8P1wITtdT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff0a9235-2e80-492b-b35f-61919362050d" name="Default Changelist" comment="" />
+      <created>1576855378802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576855378802</updated>
+      <workItem from="1576855381208" duration="4433000" />
+      <workItem from="1576864245043" duration="22000" />
+      <workItem from="1576872087120" duration="242000" />
+      <workItem from="1576932445785" duration="1171000" />
+      <workItem from="1576966489205" duration="10573000" />
+      <workItem from="1577021349306" duration="6149000" />
+      <workItem from="1577129874792" duration="5131000" />
+      <workItem from="1577135581490" duration="1061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2624" y="357" width="568" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577022059315">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2624" y="357" width="568" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1577022059315" />
+    <state x="2624" y="283" width="501" height="513" key="FileChooserDialogImpl" timestamp="1577135438596">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2624" y="283" width="501" height="513" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1577135438596" />
+    <state x="2252" y="303" key="SettingsEditor" timestamp="1577022121601">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2252" y="303" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1577022121601" />
+    <state x="2536" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1577129882701">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2536" y="367" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1577129882701" />
+  </component>
+</project>
