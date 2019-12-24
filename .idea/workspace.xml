@@ -58,7 +58,7 @@
       <workItem from="1576966489205" duration="10573000" />
       <workItem from="1577021349306" duration="6149000" />
       <workItem from="1577129874792" duration="5131000" />
-      <workItem from="1577135581490" duration="1061000" />
+      <workItem from="1577135581490" duration="11116000" />
     </task>
     <servers />
   </component>
@@ -82,5 +82,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2536" y="367" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1577129882701" />
+    <state x="2638" y="466" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577146118617">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2638" y="466" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1577146118617" />
   </component>
 </project>

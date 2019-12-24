@@ -1,18 +1,5 @@
 version: '3'
 services:
-  jenkins:
-    container_name: jenkins
-    image: jenkins-ansible
-    build:
-      context: jenkins-ansible
-    ports:
-      - "8080:8080"
-      - "5000:5000"
-    volumes:
-      - "$PWD/jenkins_home:/var/jenkins_home"
-      - "$PWD/centos/remote-key:/tmp/remote-key"
-    networks:
-      - net
   remote_host:
     container_name: remote-host
     image: remote-host
@@ -25,6 +12,8 @@ services:
     - "$PWD/db_data:/var/lib/mysql"
     networks:
         - net
+    ports:
+    - "22:50000"
   db_host:
     container_name: db
     image: mysql:5.7
@@ -34,5 +23,18 @@ services:
       - "$PWD/db_data:/var/lib/mysql"
     networks:
       - net
+  jenkins:
+    container_name: jenkins
+    image: jenkins-ansible
+    build:
+      context: jenkins-ansible
+    ports:
+      - "8080:8080"
+      - "5000:5000"
+    volumes:
+      - "$PWD/jenkins_home:/var/jenkins_home"
+    networks:
+      - net
+    entrypoint: "/bin/tini -- /usr/local/bin/jenkins.sh && ./tmp/initial-script.sh"
 networks:
     net:
